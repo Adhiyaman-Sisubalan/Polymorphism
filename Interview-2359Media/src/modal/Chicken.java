@@ -1,7 +1,5 @@
 package modal;
 
-
-
 import behaviors.NotFlyable;
 import enums.SoundEnums;
 import helper.SoundHelper;
